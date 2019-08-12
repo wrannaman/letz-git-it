@@ -28,13 +28,13 @@ class MyDocument extends Document {
 
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://wrannaman.github.io/" />
-          <meta property="og:title" content="Ligit" />
+          <meta property="og:title" content="Letz Git It" />
           <meta property="og:description" content="A weekly newsletter featuring trending and interesting open source projects." />
           <meta property="og:image" content="https://wrannaman.github.io/static/img/logo.png" />
 
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://wrannaman.github.io/" />
-          <meta property="twitter:title" content="Ligit" />
+          <meta property="twitter:title" content="Letz Git It" />
           <meta property="twitter:description" content="A weekly newsletter featuring trending and interesting open source projects." />
           <meta property="twitter:image" content="https://wrannaman.github.io/static/img/logo.png" />
 
