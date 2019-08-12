@@ -27,13 +27,13 @@ const centered = {
 
 const styles = (them) =>({
   top: {
-    background: "url(/static/img/header-bottom-light.png) bottom center no-repeat, url(/static/img/particle-left.png) top left no-repeat, url(/static/img/particle-right.png) top right no-repeat, #eff6ff",
+    background: "url(https://wrannaman.github.io/letz-git-it/static/img/header-bottom-light.png) bottom center no-repeat, url(https://wrannaman.github.io/letz-git-it/static/img/particle-left.png) top left no-repeat, url(https://wrannaman.github.io/letz-git-it/static/img/particle-right.png) top right no-repeat, #eff6ff",
     backgroundSize: "100%, auto, auto, auto",
   }
 })
 
 const top = {
-  background: "url(/static/img/header-bottom-light.png) bottom center no-repeat, url(/static/img/particle-left.png) top left no-repeat, url(/static/img/particle-right.png) top right no-repeat, #eff6ff",
+  background: "url(https://wrannaman.github.io/letz-git-it/static/img/header-bottom-light.png) bottom center no-repeat, url(https://wrannaman.github.io/letz-git-it/static/img/particle-left.png) top left no-repeat, url(https://wrannaman.github.io/letz-git-it/static/img/particle-right.png) top right no-repeat, #eff6ff",
   backgroundSize: "100%, auto, auto, auto",
   height: '100vh',
   display: 'flex',
