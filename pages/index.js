@@ -67,7 +67,7 @@ function Top(props) {
   return (
     <div style={top}>
       <div style={row}>
-        <img src="/static/img/logo.png" style={{ width: 350 }}/>
+        <img src="https://wrannaman.github.io/letz-git-it/static/img/logo.png" style={{ width: 350 }}/>
         {false && (<img src="/static/img/Octocat-sugar.png" style={{ width: 350 }} />)}
         {false && (<img src="/static/img/docker-sugar.png" style={{ width: 350 }}/>)}
       </div>
