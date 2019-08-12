@@ -7,7 +7,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start -p ${PORT}",
-    "export": "next export"
+    "export": "next export",
+    "be": "next build && rm -rf docs && next export && mv out docs && git add . && git commit -m 'updates'"
   },
   "author": "",
   "license": "ISC",

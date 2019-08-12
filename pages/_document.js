@@ -19,26 +19,24 @@ class MyDocument extends Document {
           <meta name="theme-color" content={theme.palette.primary.main} />
           <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&display=swap" rel="stylesheet" />
           <link rel="shortcut icon" type="image/png" href="/static/img/favicon.png"/>
-          <script src="https://js.stripe.com/v3"></script>
-          <script src="https://checkout.stripe.com/checkout.js"></script>
-          <meta name="title" content="Ligit" />
-          <meta name="description" content="Pro-Developer Software Licensing" />
+          <meta name="title" content="Letz Git It" />
+          <meta name="description" content="A weekly newsletter featuring trending and interesting open source projects." />
           <meta name="revisit-after" content="7 days" />
           <meta name="author" content="wrannaman" />
           <meta name="keywords" content="license, software license, software licensing, github, dockerhub, bitbucket, gitlab, developer, developer licensing, open source license" />
 
 
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://ligit.dev/" />
+          <meta property="og:url" content="https://wrannaman.github.io/" />
           <meta property="og:title" content="Ligit" />
-          <meta property="og:description" content="Pro-Developer Software Licensing" />
-          <meta property="og:image" content="https://ligit.dev/static/img/logo.png" />
+          <meta property="og:description" content="A weekly newsletter featuring trending and interesting open source projects." />
+          <meta property="og:image" content="https://wrannaman.github.io/static/img/logo.png" />
 
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:url" content="https://ligit.dev/" />
+          <meta property="twitter:url" content="https://wrannaman.github.io/" />
           <meta property="twitter:title" content="Ligit" />
-          <meta property="twitter:description" content="Pro-Developer Software` Licensing" />
-          <meta property="twitter:image" content="https://ligit.dev/static/img/logo.png" />
+          <meta property="twitter:description" content="A weekly newsletter featuring trending and interesting open source projects." />
+          <meta property="twitter:image" content="https://wrannaman.github.io/static/img/logo.png" />
 
         </Head>
         <body>
